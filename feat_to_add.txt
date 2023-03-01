@@ -1,0 +1,6 @@
+potential .env file
+psswd
+userid
+something
+somethingsomething
+somethingsomethingsomething
