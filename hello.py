@@ -19,3 +19,5 @@ print(df)
 
 # create dummy variables
 pd.get_dummies(df)
+
+print("A change")
